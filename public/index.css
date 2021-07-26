@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.work {
+    text-align: center;
+}
+
+#picked {
+    color: #7734DB;
+    font-size: large;
+}
+

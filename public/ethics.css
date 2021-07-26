@@ -1,0 +1,8 @@
+body {
+    background-image: url("./img/background.gif");
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
